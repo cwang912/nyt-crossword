@@ -1,4 +1,4 @@
-CREDIT TO donohoe for the dataset
+CREDIT TO donohoe for the dataset, [https://github.com/donohoe/nyt-crossword]
 
 NYTimes Crossword Data
 =========
