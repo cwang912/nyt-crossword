@@ -1,3 +1,5 @@
+CREDIT TO donohoe for the dataset
+
 NYTimes Crossword Data
 =========
 
